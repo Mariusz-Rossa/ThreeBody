@@ -136,7 +136,7 @@ ThreeBody/
 If you use this software, please cite:
 
 ```bibtex
-@software{rossa2026threebody,
+@software{threebodyproblem,
   author  = {Rossa, Mariusz},
   title   = {ThreeBody: Statistical Invariants in Hierarchical Three-Body Systems},
   year    = {2026},
@@ -163,4 +163,6 @@ ORCID: [0009-0006-1060-2883](https://orcid.org/0009-0006-1060-2883)
 
 ## 📜 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License — see [`LICENSE`](LICENSE). for details.
+
+*Independent research project*
